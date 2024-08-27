@@ -1,0 +1,15 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 200px;
+  height: 250px;
+  text-align: center;
+  padding: 25px;
+  border: solid;
+  border-color: rgb(199, 199, 199);
+  border-width: 1px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
